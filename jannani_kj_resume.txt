@@ -1,0 +1,68 @@
+#HD1# Jannani K J
+#P# Aspiring Software Developer | CBE, India | +91 9342756168 | jannanikj77@gmail.com | https://www.linkedin.com/in/jannanikj77
+
+## PROFESSIONAL SUMMARY
+#P# Motivated final-year BCA student with hands-on experience in app development and certified Unity Software(3D) Game Developer, proficient in PowerApps, SharePoint, HTML/CSS, and Java. Actively contributed to technical projects and departmental initiatives, demonstrating strong problem-solving and collaborative skills.
+
+## SKILLS
+#P# Java (proficient), Figma (Designing), Unity (3D AR/VR Software), python, C, SQL, PowerApps, SharePoint, Java Script, HTML, CSS, React JS, Object Oriented Programming, PowerPoint, Game Development.
+
+## EDUCATION
+#SH# PSGR KRISHNAMMAL COLLEGE FOR WOMEN
+#ST# Coimbatore, Tamil Nadu
+#P# Bachelor of Computer Application - CGPA-8.9 | Graduation Date: Apr 2026
+
+#SH# HSC, TAMIL NADU 2023
+#ST# Coimbatore, Tamil Nadu
+#P# PERCENTAGE - 90 | Graduation Date: May 2023
+
+## INTERNSHIP EXPERIENCE
+#SH# PSGR Krishnammal College For Women
+#ST# AR VR Developer | Coimbatore, Tamil Nadu | May 2025 - June 2025
+#LI# Developed a VR-based factory machine simulation using Unity and Oculus Quest 2, enabling immersive hands-on training and systems.
+#LI# Configured XR Plugin Management and XR Interaction Toolkit, enabling tracking, teleportation locomotion and and interactive physics-based objects.
+#LI# Optimized performance for standalone VR by baking lighting, combining meshes, and applying occlusion culling, ensuring smooth 72+ FPS gameplay throughout.
+
+#SH# Elgi Equipments Limited
+#ST# App Developer and App Design | Coimbatore, Tamil Nadu | Aug 2024 - Nov 2024
+#LI# Conducted manual testing of the "Air Select" mobile application, ensuring consistency between user interface data and backend technical specifications to maintain data integrity with UI UX designing.
+#LI# Collaborated with cross-functional teams to integrate Microsoft SharePoint for data storage, enhancing retrieval efficiency by 50% and reducing manual entry errors by 40%.
+#LI# Documented and reported identified issues using bug tracking tools and with HTML, CSS, facilitating effective communication with the development team and contributing to timely defect resolution.
+
+## PROJECTS
+#SH# Automated WhatsApp News Delivery Bot using Python
+#LI# Built an automated news alert system delivering real-time updates via WhatsApp using Twilio API.
+#LI# Integrated News Data for topic-specific news extraction.
+#LI# Enhanced user experience with OpenAI-based summarization.
+#LI# Designed for hourly delivery using Python scheduler.
+#LI# Potential to scale into a SaaS platform with user-specific subscriptions.
+
+#SH# Jewellery Management System – I BACUS Technology, Coimbatore
+#LI# Built a full-stack MERN application to automate jewellery store operations including user management, stock tracking, billing, and financial reporting, improving workflow efficiency across modules.
+#LI# Implemented advanced features including QR/Barcode-based inventory tracking, responsive UI dashboards, role-based access, and real-time data displays, improving operational efficiency and reducing manual errors.
+#LI# Implemented secure role-based access, optimized database structures for high-volume transaction handling, and delivered responsive UI for multi-device usage.
+
+
+#SH# OFSAC LEPSAC and Frontend Design - Elgi Equipments Limited
+#LI# Developed and deployed a user-facing application using Microsoft PowerApps integrated with SharePoint, enabling the efficient handling of 1,000+ monthly data submissions.
+#LI# Automated Excel-based reporting workflows, increasing reporting speed by 40% and reducing manual errors by 40%.
+#LI# Tackled data validation and submission accuracy issues during live deployment, enhancing overall data integrity across systems.
+
+#SH# Ghost light Getaway - Unity Software
+#LI# Designed and developed a 3D stealth game using Unity and C#, featuring enemy AI, line-of-sight detection, and interactive environments.
+#LI# Implemented smooth player controls, animations, and immersive lighting to enhance visual and gameplay quality.
+#LI# Developed a custom UI system with health indicators, start/pause menus, and clear game feedback to improve user experience.
+
+## COURSES AND CERTIFICATIONS
+#LI# Unity Certified Associate Game Developer - Unity Technologies
+#LI# Unity Essentials Certification - Unity Technologies
+#LI# Python Programming CS106A – Stanford University
+#LI# Database Management System - NPTEL
+#LI# AWS Cloud Technical Essentials - United Latino Students Association, Coursera
+
+## AWARDS AND RECOGNITIONS
+#SH# PSGR KRISHNAMMAL COLLEGE FOR WOMEN
+#ST# BCA Department, YRC Club
+#LI# Recognized for active participation in department initiatives for academic years 2023-2025.
+#LI# Proficiency certifications for core subjects and top scorer for academic year 2023-2024 and 2024-2025.
+#LI# Actively participated in hackathons and technical expos, securing awards for innovative solutions, paper presentations and engaged in club activities to enhance technical and collaborative skills.
