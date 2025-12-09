@@ -1,37 +1,20 @@
-# Jannani K J — Portfolio
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-**Aspiring Software Developer**  
-Final-year BCA student | Coimbatore, India
+# Run and deploy your AI Studio app
 
-**About**
-I am a final-year BCA student and aspiring Software Developer with experience building applications using Java, Python, PowerApps, and SharePoint. I have worked on app development, automation, and full-stack projects (MERN), focusing on user-centered solutions.
+This contains everything you need to run your app locally.
 
-**Resume**
-Download my resume: `Jannani_KJ_Resume.pdf` (placed in repo root)  
-Or view contact details below.
+View your app in AI Studio: https://ai.studio/apps/drive/1T0PGXytXOJba8KD_hfbs5RAGpE6lF3gH
 
-**Live demo**
-(If deployed, add your live site link here — Vercel / Netlify / GitHub Pages)
+## Run Locally
 
-**Projects**
-- Jewellery Management System — MERN Stack (MongoDB, Express, React, Node.js)  
-- OFSAC & LEPSAC Frontend — PowerApps + SharePoint (Elgi Equipments)  
-- Automated WhatsApp News Delivery Bot — Python + Twilio + OpenAI summarization  
-- Ghost Light Getaway — Unity 3D Game
+**Prerequisites:**  Node.js
 
-**Work Experience**
-- AR/VR Developer — PSGR Krishnammal College for Women (May 2025 – Jun 2025)  
-- App Developer & Designer — Elgi Equipments Limited (Aug 2024 – Nov 2024)
 
-**Tech stack**
-Java • Python • JavaScript (React, Node.js) • MongoDB • PowerApps • SharePoint • HTML • CSS • Unity
-
-**How to run locally**
-```bash
-# clone
-git clone https://github.com/your-username/Jannani-K-J-Portfolio.git
-cd Jannani-K-J-Portfolio
-
-# install (example for Vite/React)
-npm install
-npm run dev
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
